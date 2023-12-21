@@ -7,9 +7,6 @@ body > figure {
     right: 20px;
     width: 15%;
 }
-form{
+body > div{
     border: 2px solid #4b73e3;
-}
-#generate_pass:hover{
-    transform: scale(1.1);
 }
